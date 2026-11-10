@@ -107,7 +107,7 @@ I enjoy exploring different languages and technologies, designing complete solut
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nicalonso-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicalonso)
 
-**Discord:** Add your public Discord username or invite here.
+**Discord:** g7nkx / https://discord.gg/NhXQ595F56
 
 <sub>Made with 💙 by N!kx</sub>
 
